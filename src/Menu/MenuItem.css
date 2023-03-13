@@ -1,0 +1,15 @@
+.menu_item{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.menu_item h2 {
+    margin: 3rem 3rem;
+    color: #dedede;
+}
+
+.icon {
+    height:2rem;
+    pointer-events: none;
+}

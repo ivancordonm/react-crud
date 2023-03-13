@@ -1,0 +1,13 @@
+.menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20rem;
+    height: 100%;
+    background: #2a6f70;
+    padding: 10rem 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: flex-start;
+}
